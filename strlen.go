@@ -7,4 +7,5 @@ func StrLen(str string) int {
 		count++
 		value = value
 	}
+	return count
 }
