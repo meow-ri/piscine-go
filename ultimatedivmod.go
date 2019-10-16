@@ -1,8 +1,8 @@
 package ultimatedivmod
 
 func UltimateDivMod(a *int, b *int) {
-		c := *a / *b
-    	d := *a % *b
-    	*a = c
-    	*b = d
+	c := *a / *b
+	d := *a % *b
+	*a = c
+	*b = d
 }
