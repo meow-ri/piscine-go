@@ -1,6 +1,6 @@
 package printstr
 
-import "githhub.com/01-edu/z01"
+import "github.com/01-edu/z01"
 
 func PrintStr(str string) {
 	runes := []rune(str)
