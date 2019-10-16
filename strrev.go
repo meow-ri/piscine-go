@@ -13,5 +13,5 @@ func StrRev(str string) string {
 		runes[i] = runes[len-i-1]
 		runes[len-i-1] = rRune
 	}
-return string(runes)
+	return string(runes)
 }
