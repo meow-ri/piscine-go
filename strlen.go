@@ -1,4 +1,4 @@
-package strlen
+package piscine
 
 func StrLen(str string) int {
 	runes := []rune(str)
